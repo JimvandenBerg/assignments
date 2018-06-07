@@ -9,4 +9,6 @@ assignment week6 https://github.com/JimvandenBerg/assignments/blob/master/Graded
 
 assignment week7 https://github.com/JimvandenBerg/assignments/blob/master/Graded_assignment_2%20(1).ipynb
 
-R assignment June 7 2018 https://github.com/JimvandenBerg/assignments/blob/master/exam_june_7_2018.ipynb
+Python assignment June 7 2018 https://github.com/JimvandenBerg/assignments/blob/master/exam_june_7_2018.ipynb
+
+R assigment June 7 2018 https://github.com/JimvandenBerg/assignments/blob/master/exam_june_7_2018.ipynb
